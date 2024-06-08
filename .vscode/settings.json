@@ -1,5 +1,6 @@
 {
     "files.associations": {
-        "fit-signal.C": "cpp"
+        "fit-signal.C": "cpp",
+        "toy-monte-carlo.C": "cpp"
     }
 }
